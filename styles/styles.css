@@ -817,9 +817,9 @@ margin-bottom: 16px;
     letter-spacing: 0.04em;
     color: #8e8f99;
 }
-.checkbox:checked{
+/* .checkbox:checked{
   background-color: #404bbf;  
-}
+} */
 /* .checkbox:checked 
 .footerspan{
     border: none;
@@ -833,7 +833,7 @@ margin-bottom: 16px;
 .label-form{
     margin-bottom: 8px;
 }
-.checkbox:checked.footerspan{
+.checkbox:checked .footerspan{
     border: none;
     fill: #F4F4FD;
     background-color: #404bbf;
