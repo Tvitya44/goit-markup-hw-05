@@ -833,7 +833,7 @@ margin-bottom: 16px;
 .label-form{
     margin-bottom: 8px;
 }
-input[type='checkbox']:checked + .footerspan{
+.checkbox:checked + .footerspan{
     border: none;
     fill: #F4F4FD;
     background-color: #404bbf;
