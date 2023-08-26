@@ -875,3 +875,6 @@ border: none;
 border-radius: 4px;
 gap: 16px;
 }
+.bottom-right-btn-icon{
+    margin-left: 16px;
+}
