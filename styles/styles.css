@@ -817,15 +817,6 @@ margin-bottom: 16px;
     letter-spacing: 0.04em;
     color: #8e8f99;
 }
-/* .checkbox:checked{
-  background-color: #404bbf;  
-} */
-/* .checkbox:checked 
-.footerspan{
-    border: none;
-    fill: #F4F4FD;
-    background-color: #404bbf;
-} */
 
 .pp-link{
     color:#4d5ae5;
@@ -841,6 +832,9 @@ margin-bottom: 16px;
 .footerspan-icon{
     display: flex;
     position: relative;
+}
+.from-label:focus + .modal-form-icon {
+    fill: #4D5AE5;
 }
 
 
