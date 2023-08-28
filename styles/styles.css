@@ -833,10 +833,14 @@ margin-bottom: 16px;
 .label-form{
     margin-bottom: 8px;
 }
-.input .checkbox:checked + .footerspan{
+.input:checked + .user-policy-agreement > .footerspan{
     border: none;
     fill: #F4F4FD;
     background-color: #404bbf;
+}
+.footerspan-icon{
+    display: flex;
+    position: relative;
 }
 
 
