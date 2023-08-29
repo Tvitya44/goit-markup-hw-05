@@ -762,6 +762,7 @@ margin-bottom: 4px;
     letter-spacing: 0.48px;
 }
 .footerspan{
+    margin-right: 8px;
 align-items: center;
 width: 16px;
 height: 16px;
@@ -789,8 +790,7 @@ position: relative;
 .comment-label-section{
 margin-bottom: 16px;
 }
-.comment-text-area
-{
+.comment-text-area{
     color: rgba(46, 47, 66, 0.4);
     width: 100%;
     height: 120px;
@@ -832,6 +832,7 @@ margin-bottom: 16px;
 .footerspan-icon{
     display: flex;
     position: relative;
+
 }
 .form:focus + .modal-form-icon {
     fill: #4D5AE5;
